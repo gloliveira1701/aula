@@ -11,6 +11,7 @@ public class Ler {
         String nomeCompleto = leitor.next();
         System.out.println(" Seu nome completo é : ");
         System.out.println(nomeCompleto);
+        System.out.println(" FIM");
 
     
         leitor.close();
